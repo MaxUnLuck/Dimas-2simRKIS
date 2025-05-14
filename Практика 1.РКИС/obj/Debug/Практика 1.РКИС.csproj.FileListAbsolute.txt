@@ -1,0 +1,10 @@
+C:\Users\Дмитрий\Desktop\Долги\Практика 1.РКИС\bin\Debug\Практика 1.РКИС.exe.config
+C:\Users\Дмитрий\Desktop\Долги\Практика 1.РКИС\bin\Debug\Практика 1.РКИС.exe
+C:\Users\Дмитрий\Desktop\Долги\Практика 1.РКИС\bin\Debug\Практика 1.РКИС.pdb
+C:\Users\Дмитрий\Desktop\Долги\Практика 1.РКИС\obj\Debug\Практика 1.РКИС.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Долги\Практика 1.РКИС\obj\Debug\Практика_1.РКИС.Form1.resources
+C:\Users\Дмитрий\Desktop\Долги\Практика 1.РКИС\obj\Debug\Практика_1.РКИС.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\Долги\Практика 1.РКИС\obj\Debug\Практика 1.РКИС.csproj.GenerateResource.cache
+C:\Users\Дмитрий\Desktop\Долги\Практика 1.РКИС\obj\Debug\Практика 1.РКИС.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Долги\Практика 1.РКИС\obj\Debug\Практика 1.РКИС.exe
+C:\Users\Дмитрий\Desktop\Долги\Практика 1.РКИС\obj\Debug\Практика 1.РКИС.pdb
