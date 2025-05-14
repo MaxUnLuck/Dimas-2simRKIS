@@ -1,0 +1,10 @@
+C:\Users\Дмитрий\Desktop\Долги\Практика 2 РКИС\bin\Debug\Практика 2 РКИС.exe.config
+C:\Users\Дмитрий\Desktop\Долги\Практика 2 РКИС\bin\Debug\Практика 2 РКИС.exe
+C:\Users\Дмитрий\Desktop\Долги\Практика 2 РКИС\bin\Debug\Практика 2 РКИС.pdb
+C:\Users\Дмитрий\Desktop\Долги\Практика 2 РКИС\obj\Debug\Практика 2 РКИС.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Долги\Практика 2 РКИС\obj\Debug\Практика_2_РКИС.Form1.resources
+C:\Users\Дмитрий\Desktop\Долги\Практика 2 РКИС\obj\Debug\Практика_2_РКИС.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\Долги\Практика 2 РКИС\obj\Debug\Практика 2 РКИС.csproj.GenerateResource.cache
+C:\Users\Дмитрий\Desktop\Долги\Практика 2 РКИС\obj\Debug\Практика 2 РКИС.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Долги\Практика 2 РКИС\obj\Debug\Практика 2 РКИС.exe
+C:\Users\Дмитрий\Desktop\Долги\Практика 2 РКИС\obj\Debug\Практика 2 РКИС.pdb
