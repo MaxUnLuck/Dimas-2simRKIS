@@ -1,0 +1,34 @@
+﻿<Window x:Class="Практическая_Работа_8._1_РКИС.personnel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Практическая_Работа_8._1_РКИС"
+        mc:Ignorable="d"
+        Title="personnel" Height="450" Width="800">
+    <Grid Background="#FF74F7E9">
+        <TextBox HorizontalAlignment="Center" Height="378" TextWrapping="Wrap" VerticalAlignment="Center" Width="752"/>
+        <TextBox HorizontalAlignment="Left" Height="48" Margin="457,45,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="248" Background="White" Foreground="Black" Opacity="0.8" BorderThickness="5,5,5,5" FontSize="15" Cursor="Arrow"/>
+        <Button Content="" HorizontalAlignment="Left" Margin="710,48,0,0" VerticalAlignment="Top" Height="42" Width="53" FontSize="17" BorderThickness="0,0,0,0">
+            <Button.Background>
+                <ImageBrush ImageSource="/icons8-search-50.png"/>
+            </Button.Background>
+        </Button>
+        <TextBox HorizontalAlignment="Left" Height="221" TextWrapping="Wrap" VerticalAlignment="Top" Width="416" RenderTransformOrigin="0.5,0.5" Margin="24,30,0,0">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="1"/>
+                    <SkewTransform AngleY="0.11"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="0.398"/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <Menu Margin="24,-2,24,406" Background="#FF74F7E9">
+            <Button Content="Выход" Height="27" Width="118"/>
+            <Button Content="Расписание" Height="28" Width="127"/>
+            <Button Content="Сотрудники" Height="28" Width="134"/>
+        </Menu>
+
+    </Grid>
+</Window>

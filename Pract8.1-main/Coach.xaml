@@ -1,0 +1,41 @@
+﻿<Window x:Class="Практическая_Работа_8._1_РКИС.Coach"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Практическая_Работа_8._1_РКИС"
+        mc:Ignorable="d"
+        Title="Coach" Height="450" Width="800">
+    <Grid Background="#FF74F7E9">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="18*"/>
+            <RowDefinition Height="199*"/>
+        </Grid.RowDefinitions>
+        <TextBox HorizontalAlignment="Center" Height="378" TextWrapping="Wrap" VerticalAlignment="Top" Width="752" Margin="0,28,0,0" Grid.RowSpan="2"/>
+        <Label Content="Расписание тренировок" HorizontalAlignment="Left" Height="38" Margin="24,28,0,0" VerticalAlignment="Top" Width="285" FontSize="15" Grid.RowSpan="2"/>
+        <ListBox Margin="24,18,587,28" d:ItemsSource="{d:SampleData ItemCount=5}" FontSize="15" Grid.Row="1" SelectionChanged="ListBox_SelectionChanged"/>
+        <Label Content="Тренер" HorizontalAlignment="Left" Height="38" Margin="213,28,0,0" VerticalAlignment="Top" Width="285" FontSize="15" Grid.RowSpan="2"/>
+        <ListBox Margin="213,18,420,28" d:ItemsSource="{d:SampleData ItemCount=5}" FontSize="15" Grid.Row="1" SelectionChanged="ListBox_SelectionChanged_1"/>
+        <TextBox 
+            HorizontalAlignment="Left" 
+            Height="52" Width="301"
+            Margin="400,49,0,0" 
+            TextWrapping="Wrap"
+            VerticalAlignment="Top"  
+            Background="White" 
+            Foreground="Black" 
+            Opacity="0.8" 
+            BorderThickness="5,5,5,5" 
+            FontSize="15" 
+            Grid.Row="1" 
+            Cursor="Arrow"
+            />
+        <Button x:Name="BtnSearch" Content="" HorizontalAlignment="Left" Margin="716,49,0,0" VerticalAlignment="Top" Height="53" Width="60" Grid.Row="1" FontSize="17" BorderThickness="0,0,0,0" Click="Button_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="/icons8-search-50.png"/>
+            </Button.Background>
+        </Button>
+        <Button Content="Выход" HorizontalAlignment="Left" Height="41" Margin="683,29,0,0" VerticalAlignment="Top" Width="93" Grid.RowSpan="2" Click="Button_Click_1"/>
+        <TextBox x:Name="TBanswer" HorizontalAlignment="Left" Height="146" Margin="400,119,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="301" TextChanged="TBanswer_TextChanged"/>
+    </Grid>
+</Window>

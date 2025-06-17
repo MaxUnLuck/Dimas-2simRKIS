@@ -1,0 +1,44 @@
+C:\Users\1214M-19\Documents\2-ИСПд\Очеленков\Практическая Работа 8.1 РКИС\obj\Debug\Практическая Работа 8.1 РКИС.csproj.AssemblyReference.cache
+C:\Users\1214M-19\Documents\2-ИСПд\Очеленков\Практическая Работа 8.1 РКИС\obj\Debug\Admin.g.cs
+C:\Users\1214M-19\Documents\2-ИСПд\Очеленков\Практическая Работа 8.1 РКИС\obj\Debug\Coach.g.cs
+C:\Users\1214M-19\Documents\2-ИСПд\Очеленков\Практическая Работа 8.1 РКИС\obj\Debug\MainWindow.g.cs
+C:\Users\1214M-19\Documents\2-ИСПд\Очеленков\Практическая Работа 8.1 РКИС\obj\Debug\personnel.g.cs
+C:\Users\1214M-19\Documents\2-ИСПд\Очеленков\Практическая Работа 8.1 РКИС\obj\Debug\App.g.cs
+C:\Users\1214M-19\Documents\2-ИСПд\Очеленков\Практическая Работа 8.1 РКИС\obj\Debug\Практическая Работа 8.1 РКИС_Content.g.cs
+C:\Users\1214M-19\Documents\2-ИСПд\Очеленков\Практическая Работа 8.1 РКИС\obj\Debug\Практическая Работа 8.1 РКИС_MarkupCompile.cache
+C:\Users\1214M-19\Documents\2-ИСПд\Очеленков\Практическая Работа 8.1 РКИС\obj\Debug\Практическая Работа 8.1 РКИС_MarkupCompile.lref
+C:\Users\1214M-19\Documents\2-ИСПд\Очеленков\Практическая Работа 8.1 РКИС\bin\Debug\Практическая Работа 8.1 РКИС.exe.config
+C:\Users\1214M-19\Documents\2-ИСПд\Очеленков\Практическая Работа 8.1 РКИС\bin\Debug\Практическая Работа 8.1 РКИС.exe
+C:\Users\1214M-19\Documents\2-ИСПд\Очеленков\Практическая Работа 8.1 РКИС\bin\Debug\Практическая Работа 8.1 РКИС.pdb
+C:\Users\1214M-19\Documents\2-ИСПд\Очеленков\Практическая Работа 8.1 РКИС\obj\Debug\Admin.baml
+C:\Users\1214M-19\Documents\2-ИСПд\Очеленков\Практическая Работа 8.1 РКИС\obj\Debug\Coach.baml
+C:\Users\1214M-19\Documents\2-ИСПд\Очеленков\Практическая Работа 8.1 РКИС\obj\Debug\MainWindow.baml
+C:\Users\1214M-19\Documents\2-ИСПд\Очеленков\Практическая Работа 8.1 РКИС\obj\Debug\personnel.baml
+C:\Users\1214M-19\Documents\2-ИСПд\Очеленков\Практическая Работа 8.1 РКИС\obj\Debug\Практическая Работа 8.1 РКИС.g.resources
+C:\Users\1214M-19\Documents\2-ИСПд\Очеленков\Практическая Работа 8.1 РКИС\obj\Debug\Практическая_Работа_8._1_РКИС.Properties.Resources.resources
+C:\Users\1214M-19\Documents\2-ИСПд\Очеленков\Практическая Работа 8.1 РКИС\obj\Debug\Практическая Работа 8.1 РКИС.csproj.GenerateResource.cache
+C:\Users\1214M-19\Documents\2-ИСПд\Очеленков\Практическая Работа 8.1 РКИС\obj\Debug\Практическая Работа 8.1 РКИС.csproj.CoreCompileInputs.cache
+C:\Users\1214M-19\Documents\2-ИСПд\Очеленков\Практическая Работа 8.1 РКИС\obj\Debug\Практическая Работа 8.1 РКИС.exe
+C:\Users\1214M-19\Documents\2-ИСПд\Очеленков\Практическая Работа 8.1 РКИС\obj\Debug\Практическая Работа 8.1 РКИС.pdb
+D:\Users\1213-10\Documents\2-ИСПд\Очеленков\Pract8.1-main\Pract8.1-main\obj\Debug\Практическая Работа 8.1 РКИС.csproj.AssemblyReference.cache
+D:\Users\1213-10\Documents\2-ИСПд\Очеленков\Pract8.1-main\Pract8.1-main\obj\Debug\Admin.g.cs
+D:\Users\1213-10\Documents\2-ИСПд\Очеленков\Pract8.1-main\Pract8.1-main\obj\Debug\Coach.g.cs
+D:\Users\1213-10\Documents\2-ИСПд\Очеленков\Pract8.1-main\Pract8.1-main\obj\Debug\MainWindow.g.cs
+D:\Users\1213-10\Documents\2-ИСПд\Очеленков\Pract8.1-main\Pract8.1-main\obj\Debug\personnel.g.cs
+D:\Users\1213-10\Documents\2-ИСПд\Очеленков\Pract8.1-main\Pract8.1-main\obj\Debug\App.g.cs
+D:\Users\1213-10\Documents\2-ИСПд\Очеленков\Pract8.1-main\Pract8.1-main\obj\Debug\Практическая Работа 8.1 РКИС_Content.g.cs
+D:\Users\1213-10\Documents\2-ИСПд\Очеленков\Pract8.1-main\Pract8.1-main\obj\Debug\Практическая Работа 8.1 РКИС_MarkupCompile.cache
+D:\Users\1213-10\Documents\2-ИСПд\Очеленков\Pract8.1-main\Pract8.1-main\obj\Debug\Практическая Работа 8.1 РКИС_MarkupCompile.lref
+D:\Users\1213-10\Documents\2-ИСПд\Очеленков\Pract8.1-main\Pract8.1-main\obj\Debug\Практическая Работа 8.1 РКИС.exe
+D:\Users\1213-10\Documents\2-ИСПд\Очеленков\Pract8.1-main\Pract8.1-main\obj\Debug\Практическая Работа 8.1 РКИС.pdb
+D:\Users\1213-10\Documents\2-ИСПд\Очеленков\Pract8.1-main\Pract8.1-main\bin\Debug\Практическая Работа 8.1 РКИС.exe.config
+D:\Users\1213-10\Documents\2-ИСПд\Очеленков\Pract8.1-main\Pract8.1-main\bin\Debug\Практическая Работа 8.1 РКИС.exe
+D:\Users\1213-10\Documents\2-ИСПд\Очеленков\Pract8.1-main\Pract8.1-main\bin\Debug\Практическая Работа 8.1 РКИС.pdb
+D:\Users\1213-10\Documents\2-ИСПд\Очеленков\Pract8.1-main\Pract8.1-main\obj\Debug\Admin.baml
+D:\Users\1213-10\Documents\2-ИСПд\Очеленков\Pract8.1-main\Pract8.1-main\obj\Debug\Coach.baml
+D:\Users\1213-10\Documents\2-ИСПд\Очеленков\Pract8.1-main\Pract8.1-main\obj\Debug\MainWindow.baml
+D:\Users\1213-10\Documents\2-ИСПд\Очеленков\Pract8.1-main\Pract8.1-main\obj\Debug\personnel.baml
+D:\Users\1213-10\Documents\2-ИСПд\Очеленков\Pract8.1-main\Pract8.1-main\obj\Debug\Практическая Работа 8.1 РКИС.g.resources
+D:\Users\1213-10\Documents\2-ИСПд\Очеленков\Pract8.1-main\Pract8.1-main\obj\Debug\Практическая_Работа_8._1_РКИС.Properties.Resources.resources
+D:\Users\1213-10\Documents\2-ИСПд\Очеленков\Pract8.1-main\Pract8.1-main\obj\Debug\Практическая Работа 8.1 РКИС.csproj.GenerateResource.cache
+D:\Users\1213-10\Documents\2-ИСПд\Очеленков\Pract8.1-main\Pract8.1-main\obj\Debug\Практическая Работа 8.1 РКИС.csproj.CoreCompileInputs.cache

@@ -1,0 +1,38 @@
+﻿<Window x:Name="window" x:Class="Практическая_Работа_8._1_РКИС.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Практическая_Работа_8._1_РКИС"
+        mc:Ignorable="d"
+        Title="authorization" Height="450" Width="800">
+    <Grid Background="#FF74F7E9" Height="440" VerticalAlignment="Top">
+        <TextBox x:Name="TBlog" HorizontalAlignment="Left" Height="48" Margin="80,88,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="359" Foreground="Black" Opacity="0.7" BorderThickness="5,5,5,5" FontSize="15" Cursor="ArrowCD" >
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0.7"/>
+            </TextBox.Background>
+        </TextBox>
+        <Button x:Name="btnAutorisation" Content="Вход" HorizontalAlignment="Left" Height="64" Margin="544,244,0,0" VerticalAlignment="Top" Width="179" BorderThickness="5,5,5,5" ClipToBounds="True" Opacity="0.99" RenderTransformOrigin="0.699,0.005" Click="btnAutorisation_Click"/>
+        <TextBox HorizontalAlignment="Left" Height="65" Margin="475,243,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="69" BorderThickness="0,0,0,0" Opacity="0.6">
+            <TextBox.Background>
+                <ImageBrush ImageSource="/icons8-login-50.png"/>
+            </TextBox.Background>
+        </TextBox>
+        <TextBox HorizontalAlignment="Left" Height="47" Margin="30,220,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="50" BorderThickness="0,0,0,0">
+            <TextBox.Background>
+                <ImageBrush ImageSource="/icons8-password-50.png"/>
+            </TextBox.Background>
+        </TextBox>
+        <TextBox HorizontalAlignment="Left" Height="46" Margin="25,88,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="50" BorderThickness="0,0,0,0">
+            <TextBox.Background>
+                <ImageBrush ImageSource="/user-profile-login-icon-kjjzz29apr1bilzr.png"/>
+            </TextBox.Background>
+        </TextBox>
+        <PasswordBox x:Name="TBPsswd" HorizontalAlignment="Left" Margin="80,220,0,0" VerticalAlignment="Top" Width="359" Height="47" BorderThickness="5,5,5,5">
+            <PasswordBox.Background>
+                <SolidColorBrush Color="White" Opacity="0.6"/>
+            </PasswordBox.Background>
+        </PasswordBox>
+        <TextBox x:Name="TBTime" HorizontalAlignment="Left" Height="132" Margin="480,88,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="243"/>
+    </Grid>
+</Window>
