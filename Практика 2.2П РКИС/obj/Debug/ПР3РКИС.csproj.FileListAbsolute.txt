@@ -1,0 +1,10 @@
+C:\Users\Дмитрий\Desktop\Долги\ПР3РКИС\bin\Debug\ПР3РКИС.exe.config
+C:\Users\Дмитрий\Desktop\Долги\ПР3РКИС\bin\Debug\ПР3РКИС.exe
+C:\Users\Дмитрий\Desktop\Долги\ПР3РКИС\bin\Debug\ПР3РКИС.pdb
+C:\Users\Дмитрий\Desktop\Долги\ПР3РКИС\obj\Debug\ПР3РКИС.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Долги\ПР3РКИС\obj\Debug\ПР3РКИС.Form1.resources
+C:\Users\Дмитрий\Desktop\Долги\ПР3РКИС\obj\Debug\ПР3РКИС.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\Долги\ПР3РКИС\obj\Debug\ПР3РКИС.csproj.GenerateResource.cache
+C:\Users\Дмитрий\Desktop\Долги\ПР3РКИС\obj\Debug\ПР3РКИС.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Долги\ПР3РКИС\obj\Debug\ПР3РКИС.exe
+C:\Users\Дмитрий\Desktop\Долги\ПР3РКИС\obj\Debug\ПР3РКИС.pdb
