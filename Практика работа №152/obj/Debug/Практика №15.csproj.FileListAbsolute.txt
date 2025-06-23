@@ -1,0 +1,14 @@
+C:\Users\Дмитрий\Desktop\Долги\Практика №15\bin\Debug\Практика №15.exe.config
+C:\Users\Дмитрий\Desktop\Долги\Практика №15\bin\Debug\Практика №15.exe
+C:\Users\Дмитрий\Desktop\Долги\Практика №15\bin\Debug\Практика №15.pdb
+C:\Users\Дмитрий\Desktop\Долги\Практика №15\obj\Debug\Практика №15.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Долги\Практика №15\obj\Debug\Практика №15.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Долги\Практика №15\obj\Debug\Практика №15.exe
+C:\Users\Дмитрий\Desktop\Долги\Практика №15\obj\Debug\Практика №15.pdb
+C:\Users\Дмитрий\Desktop\Долги\Практика работа №15\bin\Debug\Практика №15.exe.config
+C:\Users\Дмитрий\Desktop\Долги\Практика работа №15\bin\Debug\Практика №15.exe
+C:\Users\Дмитрий\Desktop\Долги\Практика работа №15\bin\Debug\Практика №15.pdb
+C:\Users\Дмитрий\Desktop\Долги\Практика работа №15\obj\Debug\Практика №15.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Долги\Практика работа №15\obj\Debug\Практика №15.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Долги\Практика работа №15\obj\Debug\Практика №15.exe
+C:\Users\Дмитрий\Desktop\Долги\Практика работа №15\obj\Debug\Практика №15.pdb
